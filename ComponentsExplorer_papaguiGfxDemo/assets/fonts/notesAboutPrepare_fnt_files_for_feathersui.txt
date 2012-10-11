@@ -1,0 +1,8 @@
+fnt font file needs to be openened in a text editor, fontsize need to be put negative <info size="35" --> size="-35"
+Check also font name
+
+<info face="abc" beware that TextFormat definition in .as theme file is 
+corresponding:
+protected function scrollTextInitializer(text:ScrollText):void
+{
+text.textFormat = new TextFormat("abc, ..

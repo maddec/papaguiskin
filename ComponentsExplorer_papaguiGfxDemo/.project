@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ComponentsExplorer_papaguiGfxDemo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformasnature</nature>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformnature</nature>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] GTween_v2_01-src</name>
+			<type>2</type>
+			<location>C:/APIS/2012/transitions/gtween/GTween_v2_01/src</location>
+		</link>
+		<link>
+			<name>[source path] MetalWorksMobileTheme-source</name>
+			<type>2</type>
+			<location>C:/APIS/2012/Starling_3rd_Extensions/Feathers-UI/feathers-examples/MetalWorksMobileTheme/source</location>
+		</link>
+		<link>
+			<name>[source path] as3-signals-src</name>
+			<type>2</type>
+			<location>C:/APIS/2012/utils/as3-signals/src</location>
+		</link>
+		<link>
+			<name>[source path] feathers-source</name>
+			<type>2</type>
+			<location>C:/APIS/2012/Starling_3rd_Extensions/Feathers-UI/feathers/source</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/APIS/2012/Starling-Framework/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

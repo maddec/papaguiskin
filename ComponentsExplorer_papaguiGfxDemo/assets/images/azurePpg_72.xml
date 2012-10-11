@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:bf3cb4c6020615325546df2904ef4a90$ -->
+<TextureAtlas imagePath="azurePpg_72.png">
+    <SubTexture name="lato30_0" x="3" y="3" width="254" height="318" frameX="0" frameY="0" frameWidth="256" frameHeight="320"/>
+    <SubTexture name="ppg_button-disabled-skin" x="205" y="395" width="32" height="66"/>
+    <SubTexture name="ppg_button-down-skin" x="203" y="325" width="32" height="66"/>
+    <SubTexture name="ppg_button-up-skin" x="169" y="395" width="32" height="66"/>
+    <SubTexture name="ppg_callout-arrow-bottom-skin" x="241" y="440" width="30" height="17"/>
+    <SubTexture name="ppg_callout-arrow-left-skin" x="488" y="37" width="16" height="30"/>
+    <SubTexture name="ppg_callout-arrow-right-skin" x="488" y="3" width="17" height="30"/>
+    <SubTexture name="ppg_callout-arrow-top-skin" x="275" y="440" width="29" height="16"/>
+    <SubTexture name="ppg_callout-background-skin" x="167" y="325" width="32" height="66"/>
+    <SubTexture name="ppg_check-disabled-icon" x="172" y="465" width="43" height="43" frameX="-3" frameY="-3" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_check-down-icon" x="125" y="465" width="43" height="43" frameX="-3" frameY="-3" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_check-selected-disabled-icon" x="76" y="465" width="45" height="43" frameX="-4" frameY="-3" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_check-selected-down-icon" x="27" y="465" width="45" height="43" frameX="-4" frameY="-3" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_check-selected-up-icon" x="219" y="465" width="45" height="41" frameX="-4" frameY="-4" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_check-up-icon" x="241" y="395" width="41" height="41" frameX="-4" frameY="-5" frameWidth="49" frameHeight="49"/>
+    <SubTexture name="ppg_grouped-list-header-background-skin" x="15" y="417" width="8" height="88"/>
+    <SubTexture name="ppg_hslider-maximum-track-disabled-skin" x="432" y="76" width="24" height="32" frameX="0" frameY="-17" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_hslider-maximum-track-down-skin" x="404" y="76" width="24" height="32" frameX="0" frameY="-17" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_hslider-maximum-track-up-skin" x="376" y="76" width="24" height="32" frameX="0" frameY="-18" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_hslider-minimum-track-disabled-skin" x="275" y="115" width="24" height="32" frameX="0" frameY="-17" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_hslider-minimum-track-down-skin" x="312" y="104" width="24" height="32" frameX="0" frameY="-17" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_hslider-minimum-track-up-skin" x="348" y="76" width="24" height="32" frameX="0" frameY="-18" frameWidth="24" frameHeight="66"/>
+    <SubTexture name="ppg_inset-disabled-skin" x="133" y="395" width="32" height="66"/>
+    <SubTexture name="ppg_inset-skin" x="97" y="395" width="32" height="66"/>
+    <SubTexture name="ppg_list-item-down-skin" x="15" y="325" width="8" height="88"/>
+    <SubTexture name="ppg_list-item-up-skin" x="3" y="417" width="8" height="88"/>
+    <SubTexture name="ppg_picker-icon" x="239" y="325" width="32" height="50"/>
+    <SubTexture name="ppg_progress-bar-background-disabled-skin" x="432" y="48" width="36" height="24"/>
+    <SubTexture name="ppg_progress-bar-background-skin" x="392" y="48" width="36" height="24"/>
+    <SubTexture name="ppg_progress-bar-fill-disabled-skin" x="352" y="48" width="36" height="24"/>
+    <SubTexture name="ppg_progress-bar-fill-skin" x="312" y="48" width="36" height="24"/>
+    <SubTexture name="ppg_radio-disabled-icon" x="444" y="3" width="40" height="41"/>
+    <SubTexture name="ppg_radio-down-icon" x="400" y="3" width="40" height="41"/>
+    <SubTexture name="ppg_radio-selected-disabled-icon" x="356" y="3" width="40" height="41"/>
+    <SubTexture name="ppg_radio-selected-up-icon" x="312" y="3" width="40" height="41"/>
+    <SubTexture name="ppg_radio-up-icon" x="268" y="461" width="40" height="41"/>
+    <SubTexture name="ppg_simple-scroll-bar-thumb-skin" x="239" y="379" width="12" height="12"/>
+    <SubTexture name="ppg_slider-thumb-disabled-skin" x="97" y="325" width="66" height="66"/>
+    <SubTexture name="ppg_slider-thumb-down-skin" x="27" y="395" width="66" height="66"/>
+    <SubTexture name="ppg_slider-thumb-up-skin" x="27" y="325" width="66" height="66"/>
+    <SubTexture name="ppg_tab-selected-skin" x="3" y="325" width="8" height="88"/>
+    <SubTexture name="ppg_toolbar-background-skin" x="15" y="417" width="8" height="88"/>
+    <SubTexture name="ppg_vslider-maximum-track-disabled-skin" x="275" y="87" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+    <SubTexture name="ppg_vslider-maximum-track-down-skin" x="312" y="76" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+    <SubTexture name="ppg_vslider-maximum-track-up-skin" x="472" y="71" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+    <SubTexture name="ppg_vslider-minimum-track-disabled-skin" x="275" y="59" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+    <SubTexture name="ppg_vslider-minimum-track-down-skin" x="275" y="31" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+    <SubTexture name="ppg_vslider-minimum-track-up-skin" x="275" y="3" width="32" height="24" frameX="-17" frameY="0" frameWidth="66" frameHeight="24"/>
+</TextureAtlas>
