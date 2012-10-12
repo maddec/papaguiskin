@@ -5,19 +5,18 @@ Skins for [Feathers](http://feathersui.com/) a mobile optimized UI component lib
 
 ## Quick Notes
 
-* explanation of the process available on my blog http://analogd.com/blog here: http://ow.ly/eq2fS
+* full explanations and step by step tutorial are available on my blog: http://ow.ly/eq2fS
 * currently provide Adobe Illustrator graphic templates to ease the process of preparing UI skins.
 * based on Azure theme (new official MetalWorksMobileTheme version in preparation)
 * to demonstrate how easy it is to build new skins two basic examples are provided Metroid and Castlevania skins (small change of colors, no changes done to gradients, shapes or proportions). 
 
 ## Why an Adobe Illustrator template?
 
-* vectorial: no comment you know (ideal for multi resolution exports)
-* artboards: make it easy to export multiple assets at once (ideal for multi resolution exports)
-* global color swatches: change the color swatch, change will be done automatically everywhere (everything was prepared to play this way within the template)
-* shape effects: apply non destructive shape effects (round corners, ...)
-* visualize effects: apply non destructive visual effects (drop shadow, ...)
-* symbols: same as in flash, your graphic assets can be used in multiple places with the same reference asset (change one then all instance auto updated). For instance the arrow for the callout component.
+* artboards: one step export ideal to export numerous skin parts at once or for multi-resolution assets preparation
+* global color swatches: change colors globally for the whole parts, easy theming
+* symbols: like in Flash use instances of symbol, modify the symbol and every instances are updated (e.g. used for callout arrows)
+* flexible: shape effects and visual effects (e.g. dropshadow)
+* flexible: vectorial assets can be mixed with bitmap based assets(or layers or placed bitmap files). Those can be prepared in HD (350, 400?) at high resolution and then all parts exported to corresponding resolutions e.g. 163, 264, 326
 
 ## Dependencies
 
