@@ -5,7 +5,7 @@ Skins for [Feathers](http://feathersui.com/) a UI component library based on [St
 
 ## Quick Notes
 
-* explanation of the process available here: 
+* explanation of the process available on my blog http://analogd.com/blog here: http://ow.ly/eq2fS
 * currently provide Adobe Illustrator graphic templates to ease the process of preparing UI skins.
 * based on Azure theme (new official MetalWorksMobileTheme version in preparation)
 * to demonstrate how easy it is to build new skins two basic examples are provided Metroid and Castlevania skins (small change of colors, no changes done to gradients, shapes or proportions). 
