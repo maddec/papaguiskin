@@ -1,4 +1,4 @@
-# PapaguiSkin for FeathersUI
+# PapaguiSkin for Feathers for Starling
 =================================
 
 Skins for [Feathers](http://feathersui.com/) a mobile optimized UI component library based on [Starling Framework](http://starling-framework.org/). Context: Adobe AIR, Adobe Flash, Actionscript.
